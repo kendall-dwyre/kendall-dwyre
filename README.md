@@ -1,5 +1,5 @@
 <h1 align="center">Hello, nice to meet you!  My name is Kendall Dwyre.</h1>
-(https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Data+Science+Consultant+at+Global+Gates.)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Data+Science+Consultant+at+Global+Gates." alt="Typing SVG" /></a>
 
 [![Kendall's GitHub stats](https://github-readme-stats.vercel.app/api?username=kendall-dwyre)](https://github.com/anuraghazra/github-readme-stats)
 
