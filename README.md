@@ -1,10 +1,12 @@
-<h1 align="center">Hi 👋, I'm Kendall Dwyre</h1>
+<h1 align="center">Hello, nice to meet you!  My name is Kendall Dwyre.</h1>
 <h3 align="center">I am currently a Master's of Data Science student, working as a Data Science Consultant on the side.</h3>
 
 [![Kendall's GitHub stats](https://github-readme-stats.vercel.app/api?username=kendall-dwyre)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:
+
+https://www.linkedin.com/in/kendall-dwyre/</h3>
 <p align="left">
 </p>
 
