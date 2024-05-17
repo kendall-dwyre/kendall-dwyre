@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kendall Dwyre</h1>
-<h3 align="center">I am currently a Master's of Data Science student, working part-time in Research on the side.</h3>
+<h3 align="center">I am currently a Master's of Data Science student, working as a Data Science Consultant on the side.</h3>
 
 [![Kendall's GitHub stats](https://github-readme-stats.vercel.app/api?username=kendall-dwyre)](https://github.com/anuraghazra/github-readme-stats)
 
