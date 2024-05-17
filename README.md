@@ -3,7 +3,7 @@
 
 [![Kendall's GitHub stats](https://github-readme-stats.vercel.app/api?username=kendall-dwyre)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DenverCoder1"/></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kendall-dwyre"/></a>
 
 <h3 align="left">Connect with me:
 
